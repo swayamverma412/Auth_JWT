@@ -1,2 +1,2 @@
-# "User Authorization & Autheication "
-    This is repo based on user authorization and autheication connecting with mongdb  
+# "User Authorization & Authentication "
+    This is repo based on user authorization and authentication connecting with mongdb  
